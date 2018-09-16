@@ -13,40 +13,58 @@
 
 深证创业板日线数据，截止 2017.05.05，原始价、前复权价、后复权价，636支股票
 http://dataju.cn/Dataju/web/datasetInstanceDetail/343
+
 上证A股日线数据，1999.12.09 至 2016.06.08，前复权，1095支股票
 http://dataju.cn/Dataju/web/datasetInstanceDetail/37
+
 深证A股日线数据，1999.12.09 至 2016.06.08，前复权，1766支股票
 http://dataju.cn/Dataju/web/datasetInstanceDetail/38
+
 深证创业板日线数据，1999.12.09 至 2016.06.08，前复权，510支股票
 http://dataju.cn/Dataju/web/datasetInstanceDetail/39
+
 MT4平台外汇交易历史数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/43
+
 Forex平台外汇交易历史数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/67
+
 几组外汇交易逐笔（Ticks）数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/44
+
 美国股票新闻数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/220
+
 美国医疗保险市场数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/225
+
 美国金融客户投诉数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/229
+
 Lending Club 网贷违约数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/206
+
 信用卡欺诈数据【Kaggle 数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/214
+
 美国股票数据XBRL【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/249
+
 纽约股票交易所数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/266
+
 贷款违约预测竞赛数据【Kaggle竞赛】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/336
+
 Zillow 网站房地产价值预测竞赛数据【Kaggle竞赛】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/347
+
 Sberbank 俄罗斯房地产价值预测竞赛数据【Kaggle竞赛】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/348
+
 Homesite 保险定价竞赛数据【Kaggle竞赛】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/355
+
 Winton 股票回报率预测竞赛数据【Kaggle竞赛】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/356
 
@@ -54,37 +72,41 @@ http://dataju.cn/Dataju/web/datasetInstanceDetail/356
 
 2013年纽约出租车行驶数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/76
+
 2013年芝加哥出租车行驶数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/323
+
 Udacity自动驾驶数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/86
+
 纽约 Uber 接客数据 【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/210
+
 英国车祸数据（2005-2015）【Kaagle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/232
+
 芝加哥汽车超速数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/228
+
 KITTI 自动驾驶任务数据【数据太大仅有部分】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/270
+
 Cityscapes 场景标注数据【数据太大仅有部分】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/338
+
 交通信号识别数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/339
 
 芝加哥Divvy共享自行车骑行数据（2013年至今）
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/325
 
 美国查塔努加市共享单车骑行数据
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/358
 
 Capital 共享单车骑行数据
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/359
 
 Bay Area 共享单车骑行数据
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/360
 
 Nice Ride 共享单车骑行数据
@@ -92,15 +114,12 @@ Nice Ride 共享单车骑行数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/361
 
 花旗银行共享单车骑行数据
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/324
 
 运用卫星数据跟踪亚马逊热带雨林中的人类轨迹竞赛【Kaggle竞赛】
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/349
 
 纽约出租车管理委员会官方的乘车数据（2009年-2016年）
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/364
 
 3. 商业
@@ -109,35 +128,30 @@ Airbnb 开放的民宿信息和住客评论数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/309
 
 Amazon 食品评论数据【Kaggle数据】
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/207
 
 Amazon 无锁手机评论数据【Kaggle数据】
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/208
 
 美国视频游戏销售和评价数据【Kaggle数据】
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/230
 
 Kaggle 各项竞赛情况数据【Kaggle数据】
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/213
 
 Bosch 生产流水线降低次品率竞赛数据【Kaggle竞赛】
 
 http://dataju.cn/Dataju/web/datasetInstanceDetail/319
 
-预测公寓租金竞赛数据
 
+预测公寓租金竞赛数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/337
 
-广告点击预测竞赛数据
 
+广告点击预测竞赛数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/335
 
 餐厅营业收入预测建模竞赛
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/333
 
 银行产品推荐竞赛数据
@@ -164,28 +178,28 @@ http://dataju.cn/Dataju/web/datasetInstanceDetail/354
 
 推荐系统
 
-Netflix 电影评价数据
 
+Netflix 电影评价数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/32
 
-MovieLens 20m 电影推荐数据集
 
+MovieLens 20m 电影推荐数据集
 http://dataju.cn/Dataju/web/datasetInstanceDetail/116
 
-WikiLens
 
+WikiLens
 http://dataju.cn/Dataju/web/datasetInstanceDetail/97
 
-Jester
 
+Jester
 http://dataju.cn/Dataju/web/datasetInstanceDetail/99
 
-HetRec2011
 
+HetRec2011
 http://dataju.cn/Dataju/web/datasetInstanceDetail/101
 
-Book Crossing
 
+Book Crossing
 http://dataju.cn/Dataju/web/datasetInstanceDetail/100
 
 Large Movie Review
@@ -196,50 +210,52 @@ Retailrocket 商品评论和推荐数据
 
 http://dataju.cn/Dataju/web/datasetInstanceDetail/290
 
+
+
 5. 医疗健康
+6. 
 
 人识别物体时大脑核磁共振影像数据
-
 http://dataju.cn/Dataju/web/datasetInstanceDetail/80
 
-人理解单词时大脑核磁共振影像数据
 
+人理解单词时大脑核磁共振影像数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/79
 
-心脏病心房图像及标注数据
 
+心脏病心房图像及标注数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/121
 
-细胞病理识别
 
+细胞病理识别
 http://dataju.cn/Dataju/web/datasetInstanceDetail/242
 
-FIRE 视网膜眼底病变图像数据
 
+FIRE 视网膜眼底病变图像数据
 http://dataju.cn/Dataju/web/datasetInstanceDetail/124
 
-食物营养成分数据 【Kaggle数据】
 
+食物营养成分数据 【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/250
 
-EGG 大脑电波形状数据【Kaggle数据】
 
+EGG 大脑电波形状数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/258
 
-某人基因序列数据【Kaggle数据】
 
+某人基因序列数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/261
 
-癌症CT影像数据【Kaggle数据】
 
+癌症CT影像数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/275
 
-软组织肉瘤CT图像数据【Kaggle数据】
 
+软组织肉瘤C图像数据【Kaggle数据】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/284
 
-美国国家健康与服务部-国家癌症研究所发起的癌症数据仓库介绍【仅有介绍】
 
+美国国家健康服务部-国家癌症研究所发起的癌症数据仓库介绍【仅有介绍】
 http://dataju.cn/Dataju/web/datasetInstanceDetail/283
 
 Data Science Bowl 2017 肺癌识别竞赛数据【数据太大仅有介绍】
